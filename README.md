@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h2 align="left">Hi 👋! Hello, we are The BEUS Team</h2>
 BEUS with BUS✨support BUS because of you i shine
-![Image](https://github.com/user-attachments/assets/a91edd99-5e0c-4c9d-863d-b01ded52a12d)
+<img align="right" height="150" src="https://i.imgflip.com/adiknj.gif"  />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thebeus.withbus) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thebeus_withbus) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thebeus_withbus) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@thebeus.com) 
