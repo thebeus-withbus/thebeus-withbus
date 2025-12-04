@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2 align="left">Hi 👋! Hello, we are The BEUS Team</h2>
+<h2 align="left"> 👋! Hello, we are The BEUS Team</h2>
 BEUS with BUS✨support BUS because of you i shine
 <img align="right" height="200" z-index="9" src="https://i.imgflip.com/adiknj.gif"  />
 
